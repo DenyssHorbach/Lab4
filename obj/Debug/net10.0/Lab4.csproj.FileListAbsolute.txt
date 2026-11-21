@@ -1,0 +1,14 @@
+D:\wse\stud\OOPLabs\Lab4\bin\Debug\net10.0\Lab4.exe
+D:\wse\stud\OOPLabs\Lab4\bin\Debug\net10.0\Lab4.deps.json
+D:\wse\stud\OOPLabs\Lab4\bin\Debug\net10.0\Lab4.runtimeconfig.json
+D:\wse\stud\OOPLabs\Lab4\bin\Debug\net10.0\Lab4.dll
+D:\wse\stud\OOPLabs\Lab4\bin\Debug\net10.0\Lab4.pdb
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.AssemblyInfoInputs.cache
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.AssemblyInfo.cs
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.csproj.CoreCompileInputs.cache
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.dll
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\refint\Lab4.dll
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.pdb
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\Lab4.genruntimeconfig.cache
+D:\wse\stud\OOPLabs\Lab4\obj\Debug\net10.0\ref\Lab4.dll
